@@ -1,0 +1,2 @@
+Google Imagen 생성 스크립트 실행 시 GOOGLE_API_KEY 미설정으로 webp 생성 실패.
+지침에 따라 최후 폴백으로 업종 관련 SVG Hero를 사용함.
